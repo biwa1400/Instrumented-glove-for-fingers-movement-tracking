@@ -1,5 +1,7 @@
 # Instrumented-glove-for-fingers-movement-tracking
 Design a PCB for Inertial sensors system that embedded into gloves to track the fingers movement with high accuracy and high real-time response. 
+
+* [Invensense](https://www.invensense.com/products/motion-tracking/9-axis/icm-20948/) 
 # Challenges
 Design a smallest PCB for every sensor unit, and consider how to connect every sensors which allocated in every finger joints . It also should care wear comfortable and low in cost. 
 
