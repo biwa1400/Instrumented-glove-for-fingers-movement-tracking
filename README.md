@@ -5,3 +5,5 @@ Design a smallest PCB for every sensor unit, and consider how to connect every s
 
 # Step 1
 Design the schematic based on the 9-Axis MPU and the microcontroller. 
+
+#### 已经完成了ICM-20948原理图和PCB的设计
