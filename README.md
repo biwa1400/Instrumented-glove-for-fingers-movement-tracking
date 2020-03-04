@@ -17,7 +17,7 @@ Design the schematic based on the 9-Axis MPU and the microcontroller.
 
 #### Completed the design of finger part schematic (Ziqin)
 
-<div align="center"><img width="750" height="450" src="https://github.com/biwa1400/Instrumented-glove-for-fingers-movement-tracking/blob/master/footprint_ziqin/MPU_9250_fingerpart.png"/></div>
+<div align="center"><img width="750" height="350" src="https://github.com/biwa1400/Instrumented-glove-for-fingers-movement-tracking/blob/master/footprint_ziqin/MPU_9250_fingerpart.png"/></div>
 
 
 
